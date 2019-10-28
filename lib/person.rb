@@ -18,6 +18,7 @@ def job
 end 
 
 beyonce = Person.new 
+beyonce.name 
 
 
 end 
