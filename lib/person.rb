@@ -1,8 +1,8 @@
 case Person 
 
 
-def name=(Beyonce)
-  @name = Beyonce 
+def name=(new_name)
+  @name = new_name 
 end 
 
 def name 
@@ -17,8 +17,7 @@ def job
   @job
 end 
 
-beyonce = Person.new 
-beyonce.name 
+
 
 
 end 
