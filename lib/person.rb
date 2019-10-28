@@ -1,4 +1,4 @@
-case Person 
+class Person 
 
 new_name = Person.new 
 
