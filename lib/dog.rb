@@ -1,6 +1,6 @@
 class Dog 
   
-  Dog.new = fido 
+  fido = Dog.new 
   
   def name=(fido)
     @name = fido 
@@ -10,6 +10,7 @@ class Dog
       @name 
     end 
     
+     fido.name
     def breed=(beagle)
       @breed = beagle
     end
@@ -18,8 +19,6 @@ class Dog
       @breed
     end 
     
-    Dog.name
-    
-    Dog.breed
+   fido.breed
     
   end 
