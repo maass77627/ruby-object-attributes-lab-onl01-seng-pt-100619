@@ -17,3 +17,9 @@ class Dog
     def breed
       @breed
     end 
+    
+    Dog.name
+    
+    Dog.breed
+    
+  end 
