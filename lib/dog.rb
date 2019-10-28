@@ -1,5 +1,7 @@
 class Dog 
   
+  Dog.new = fido 
+  
   def name=(fido)
     @name = fido 
     end 
