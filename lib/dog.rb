@@ -10,7 +10,6 @@ class Dog
       @name 
     end 
     
-     fido.name
     def breed=(beagle)
       @breed = beagle
     end
@@ -18,7 +17,5 @@ class Dog
     def breed
       @breed
     end 
-    
-   fido.breed
     
   end 
