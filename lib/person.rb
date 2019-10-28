@@ -1,9 +1,8 @@
 case Person 
-
 beyonce = Person.new
-        beyonce.name = "Beyonce"
 
 def name=(Beyonce)
+  
   @name = Beyonce 
 end 
 
