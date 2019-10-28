@@ -1,7 +1,7 @@
 case Person 
 
-def name=(Beyonce)
-  @name = Beyonce 
+def name=(beyonce)
+  @name = beyonce 
 end 
 
 def name 
